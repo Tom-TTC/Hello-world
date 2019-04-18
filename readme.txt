@@ -4,3 +4,5 @@ Git is free software
 你好，小悟
 hello moto
 weird person
+creating a new branch is quick
+
